@@ -1,0 +1,1 @@
+The original credit-risk dataset is not included in this repository. The analysis was performed using the credit_risk table imported into MySQL from the original dataset. The SQL scripts reproduce the analysis once the dataset is loaded locally.
